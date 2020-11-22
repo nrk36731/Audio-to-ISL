@@ -1,0 +1,7 @@
+pip install easygui
+pip install numpy
+pip install Pillow
+pip install opencv-python
+pip install SpeechRecognition
+pip install matplotlib
+pip install tkintertable
